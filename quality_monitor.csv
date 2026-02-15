@@ -1,0 +1,541 @@
+record_id,first_name,last_name,email,phone,company_name,job_title,city,industry,created_at,last_verified,status
+REC_000297,Jane,Harris,harris.jane@yahoo.com,,NS,Chief Marketing Officer,,Healthcare Tech,2023-11-08,2024-01-19,pending
+REC_000128,Robert,Robinson,robertrobinson@cloudsolutions.net,123-456,FORGE TECHNOLOGIES,Product Director,Miami,Cloud Services,2024-06-09,2024-12-12,pending
+REC_000284,Rebecca,Thomas,rebeccathomas@apextech.com,(309)2895667,,Operations Manager,Atlanta,E-commerce,2025-02-09,2025-02-09,inactive
+REC_000132,Thomas,Sanchez,thomas.sanchez@aol.com,123-456,DigitalVentures Corp.,CMO,,FinTech,2024-04-18,2024-12-13,active
+REC_000042,Kathleen,Clark,kathleen.clark@yahoo.com,, FutureSoft ,Chief Executive Officer,,,2024-02-26,2024-03-10,pending
+REC_000235,Lisa,Wilson,lisawilson@futuresoft.io,, TechCorp ,Director of Analytics,Dallas,,2025-02-07,2025-02-07,active
+REC_000422,Elizabeth,Thomas,elizabeth.thomas@primeanalytics.com,7519236405,,Sales Manager,Dallas,SaaS,2024-04-29,2024-07-01,inactive
+REC_000187,Rebecca,Thomas,rebecca.thomas@digitalventures.co,+1 605 982 9768,NexGen Solutions,Marketing Coordinator,Portland,FinTech,2025-01-26,2025-02-10,active
+REC_000021,Michelle,Anderson,michelle_anderson@yahoo.com,5516624915,horizon solutions,Sales Associate,Seattle,AI/ML,2025-01-05,2025-01-06,pending
+REC_000325,Jennifer,Robinson,robinson.jennifer@icloud.com,(967)4825009,innovatelabs,Lead Developer,Dallas,E-commerce,2024-12-17,2025-01-30,active
+REC_000262,Robert,Ramirez,ramirez.robert@apextech.com,(650) 484-8480,Titan Systems Inc.,,,SaaS,2024-07-02,2024-12-29,active
+REC_000035,Paul,Clark,paul.clark@icloud.com,+14949692360,NexGen Solutions,,San Diego,Cybersecurity,2024-12-17,2025-01-01,active
+REC_000306,Anthony,Walker,anthonywalker@nexgen.com,1-460-856-7221,Horizon Solutions Corp.,Director of Operations,Austin,SaaS,2024-11-02,2025-01-11,active
+REC_000002,Melissa,Wilson,wilson.melissa@techcorp.com,941-556-7397,Catalyst Software Inc,CTO,,Marketing Tech,2025-02-06,2025-02-06,active
+REC_000402,Kathleen,Miller,kathleenmiller@smarttech.ai,(955)2598212,Elevate Solutions,,Seattle,E-commerce,2025-02-06,2025-02-06,pending
+REC_000045,Jessica,White,jessica_white@yahoo.com,,spark innovations,VP Business Development,Denver,SaaS,2023-06-03,2024-06-22,active
+REC_000216,Thomas,Johnson,,446.767.8221,SUMMIT SOFTWARE,Data Analyst,San Diego,Cybersecurity,2024-08-15,2025-01-12,pending
+REC_000095,Paul,Williams,paul.williams@nexgen.com,(715) 839-9378,,Operations Manager,San Francisco,,2025-01-26,2025-02-09,active
+REC_000339,Cynthia,Jackson,cynthiajackson@datasystems.io,,smarttech,Vice President of Engineering,Phoenix,Marketing Tech,2025-01-13,2025-02-07,active
+REC_000081,Richard,Clark,richard_clark@innovatelabs.com,9723454262,TS,Chief Marketing Officer,Atlanta,Cloud Services,2023-02-21,2024-07-11,active
+REC_000251,Paul,Williams,paulwilliams@smarttech.ai,636.413.5014,Matrix Systems Limited,VP of Sales,Chicago,Cybersecurity,2025-02-03,2025-02-03,active
+REC_000301,Sarah,Jones,jones.sarah@techcorp.com,532439,Elevate Solutions Inc,VP of Operations,Chicago,Analytics,2024-09-11,2025-01-07,inactive
+REC_000361,Laura,Anderson,laura_anderson@hotmail.com,(622) 320-3220,vertex analytics,Senior Vice President,New York,SaaS,2023-01-23,2025-01-13,active
+REC_000270,Jessica,White,jessica_white@primeanalytics.com,(338) 209-6650,Beacon Analytics LLC,Senior Vice President,Portland,Cybersecurity,2024-05-13,2024-08-28,active
+REC_000054,Robert,Miller,robert.miller@horizon.solutions,950237,,VP Business Development,,Technology,2024-07-20,2024-08-13,inactive
+REC_000407,Lisa,Anderson,landerson@outlook.com,1-883-210-7715,Matrix Systems Ltd.,Senior Vice President,Atlanta,Marketing Tech,2024-10-09,2024-11-04,pending
+REC_000053,Robert,Young,young.robert@catalyst.software,, Forge Technologies ,CFO,Denver,Cloud Services,2024-10-14,2024-12-10,active
+REC_000238,Sharon,Young,sharonyoung@techcorp.com,407253,techcorp,Software Engineer,,Cybersecurity,2024-12-06,2025-02-14,active
+REC_000398,Donald,Lewis,donaldlewis@datasystems.io,755.271.9067,SmartTech LP,Sales Representative,Chicago,Analytics,2024-11-04,2024-12-17,active
+REC_000410,Thomas,Rodriguez,thomasrodriguez@innovatelabs.com,(786) 293-4650,,Marketing Manager,,Cloud Services,2024-11-15,2025-01-04,active
+REC_000203,Lisa,Young,lyoung@primeanalytics.com,123-456,Synergy Corp,CEO,,Cybersecurity,2025-01-23,2025-02-12,active
+REC_000292,Michelle,Garcia,mgarcia@velocity.tech,579223,Prime Analytics Inc,Associate Consultant,Austin,AI/ML,2024-09-18,2024-12-05,active
+REC_000033,Daniel,Lopez,dlopez@futuresoft.io,(667)6951694,Pinnacle Tech LLC,Data Analyst,Denver,FinTech,2025-01-31,2025-02-11,inactive
+REC_000329,Michael,Robinson,michael_robinson@hotmail.com,,,COO,Miami,SaaS,2025-01-03,2025-01-09,inactive
+REC_000450,Sarah,Davis,sarah_davis@primeanalytics.com,8309223719, Vertex Analytics ,Operations Manager,Atlanta,Marketing Tech,2024-01-27,2024-11-13,pending
+REC_000156,Anthony,Young,,+18376685821,,CMO,,E-commerce,2024-12-05,2025-01-20,active
+REC_000302,Kathleen,Moore,kathleenmoore@pinnacle.tech,861617,TechCorp,Customer Success Manager,Philadelphia,,2025-01-22,2025-01-27,pending
+REC_000010,Anthony,Hernandez,anthony_hernandez@aol.com,(585) 671-9370, Elevate Solutions ,Marketing Coordinator,,Cloud Services,2025-01-26,2025-02-13,active
+REC_000067,Elizabeth,Hernandez,hernandez.elizabeth@quantum.io,123-456,Horizon Solutions,Business Development Manager,Washington DC,E-commerce,2024-12-28,2024-12-31,active
+REC_000483,Elizabeth,Martin,elizabethmartin@smarttech.ai,209-672-2146,Apex Technologies,Chief Technology Officer,,AI/ML,2023-09-23,2023-10-22,active
+REC_000318,Cynthia,Brown,cynthiabrown@innovatelabs.com,,FutureSoft LP,Senior Data Analyst,,E-commerce,2025-01-20,2025-02-09,inactive
+REC_000539,Sharon,Williams,sharon.williams@yahoo.com,,spark innovations,Product Manager,Phoenix,Healthcare Tech,2024-10-13,2024-11-22,active
+REC_000396,Donald,Young,donald.young@techcorp.com,560643,HS,Sales Director,,Healthcare Tech,2025-02-14,2025-02-14,pending
+REC_000191,Jennifer,Walker,jennifer.walker@gmail.com,, Apex Technologies ,Product Manager,,AI/ML,2024-11-06,2024-11-23,active
+REC_000072,Daniel,Johnson,,123-456,Quantum Dynamics Corporation,Sales Representative,Chicago,,2024-11-20,2025-01-25,active
+REC_000529,Anthony,Garcia,anthony_garcia@cloudsolutions.net,+1 949 305 1303,PA,Product Director,Dallas,AI/ML,2025-01-29,2025-02-07,pending
+REC_000527,Robert,Davis,robert.davis@aol.com,896.637.2436,NexGen Solutions,Director of Engineering,,Marketing Tech,2025-02-09,2025-02-09,active
+REC_000353,Anthony,Jones,ajones@icloud.com,573529,innovatelabs,VP of Operations,Denver,Cloud Services,2025-01-20,2025-02-09,inactive
+REC_000299,Anthony,Lopez,alopez@yahoo.com,(990) 654-3240,NexGen Solutions LLP,Marketing Manager,San Diego,E-commerce,2024-10-01,2024-10-08,pending
+REC_000286,Daniel,Davis,danieldavis@techcorp.com,+1 624 574 6906,Synergy Corp LLC,Senior Data Analyst,,Analytics,2025-01-05,2025-02-01,inactive
+REC_000296,Rebecca,Lewis,rlewis@hotmail.com,(243)8868798,ES,Senior Product Manager,Denver,Marketing Tech,2024-07-24,2025-01-03,active
+REC_000444,Donald,Harris,harris.donald@outlook.com,583391, Apex Technologies ,Lead Developer,Phoenix,Technology,2025-01-06,2025-01-12,active
+REC_000418,Amanda,Thompson,amanda.thompson@horizon.solutions,+15919122132,FRONTIER TECH,Marketing Director,Dallas,Technology,2025-01-07,2025-01-13,active
+REC_000073,Paul,Wilson,paulwilson@outlook.com,5097828091,Spark Innovations,Product Director,Phoenix,FinTech,2024-04-11,2024-09-30,active
+REC_000321,Sharon,Walker,sharon_walker@outlook.com,(315) 591-8951,summit software,Chief Financial Officer,Austin,Cybersecurity,2025-01-07,2025-01-26,inactive
+REC_000099,Jessica,Martinez,jessica_martinez@digitalventures.co,713.740.7911,Catalyst Software Inc.,Senior Software Engineer,Chicago,Analytics,2024-09-18,2024-12-26,active
+REC_000066,Sarah,Miller,sarah.miller@pinnacle.tech,123-456,Horizon Solutions,Engineering Manager,Atlanta,,2024-11-03,2024-12-09,active
+REC_000340,Emily,Thomas,ethomas@primeanalytics.com,,C,Product Specialist,Portland,Cybersecurity,2024-12-15,2024-12-28,inactive
+REC_000215,William,Martinez,martinez.william@pinnacle.tech,727-900-8707,Forge Technologies,Senior Data Analyst,,Marketing Tech,2024-12-10,2024-12-31,active
+REC_000309,James,Moore,james.moore@datasystems.io,1-924-856-7754,C,,,SaaS,2024-01-30,2024-12-24,inactive
+REC_000122,Cynthia,Jackson,cjackson@futuresoft.io,983628,INNOVATELABS,Senior Sales Executive,Phoenix,Cybersecurity,2024-12-26,2025-01-03,inactive
+REC_000430,Daniel,Smith,smith.daniel@catalyst.software,+1 982 400 3301,Synergy Corp Corporation,Marketing Specialist,Chicago,E-commerce,2024-10-26,2024-11-06,pending
+REC_000461,Lisa,Miller,lisamiller@velocity.tech,1-936-708-8011,D,Associate Consultant,,E-commerce,2024-12-16,2024-12-26,pending
+REC_000175,Michael,Ramirez,ramirez.michael@quantum.io,5609619756,Catalyst Software Co.,Senior Consultant,,Marketing Tech,2024-07-02,2024-09-13,active
+REC_000068,James,Martinez,jamesmartinez@hotmail.com,1-958-373-2904,Synergy Corp Corp.,Operations Manager,San Francisco,Marketing Tech,2024-12-02,2024-12-27,active
+REC_000176,Lisa,Lee,lisa.lee@futuresoft.io,755-899-9544,,Sales Associate,,Healthcare Tech,2024-06-26,2025-01-10,active
+REC_000367,Richard,Harris,richard_harris@quantum.io,(935)8953544,CS,,Portland,SaaS,2023-09-26,2024-03-27,active
+REC_000438,Michael,Walker,mwalker@catalyst.software,,synergy corp,CEO,Philadelphia,E-commerce,2025-01-21,2025-01-22,inactive
+REC_000247,Donald,Rodriguez,donaldrodriguezdigitalventures.co,+1 996 680 5525,SUMMIT SOFTWARE,VP of Sales,,E-commerce,2024-11-28,2024-11-29,inactive
+REC_000319,David,Jackson,davidjackson@apextech.com,320.814.9340,MS,Senior Consultant,Dallas,SaaS,2024-11-08,2025-01-23,active
+REC_000032,Jennifer,Williams,,+1 487 906 4662,smarttech,CFO,,E-commerce,2024-03-21,2024-08-01,active
+REC_000210,Michael,Jackson,,435788,Spark Innovations Corp.,Senior Consultant,Chicago,,2024-09-17,2025-01-24,active
+REC_000344,Paul,White,paul.white@outlook.com,445-876-7335,Prime Analytics LLP,Business Development Manager,San Francisco,SaaS,2025-02-08,2025-02-08,active
+REC_000389,Thomas,Lewis,,1-743-615-3502,DATASYSTEMS,Senior Data Analyst,Denver,FinTech,2025-01-01,2025-01-18,active
+REC_000480,Daniel,Brown,daniel.brown@primeanalytics.com,(439)9292280,PA,Business Development Manager,San Francisco,Marketing Tech,2024-11-14,2025-01-25,inactive
+REC_000347,Sarah,Miller,sarah.miller@smarttech.ai,123-456,Spark Innovations LLP,VP of Sales,Phoenix,SaaS,2024-02-18,2024-02-21,active
+REC_000014,Richard,Lopez,rlopez@innovatelabs.com,746-247-7138,SmartTech,,Austin,Technology,2025-02-04,2025-02-04,active
+REC_000252,Jane,Hernandez,,+1 824 559 4202,TechCorp,COO,Chicago,Cybersecurity,2025-01-02,2025-01-07,active
+REC_000116,Matthew,Taylor,mtaylor@techcorp.com,+1 251 264 9093,Matrix Systems Ltd.,Account Manager,Portland,,2024-10-18,2024-12-28,inactive
+REC_000467,Jessica,Lee,jessicalee@hotmail.com,,,CDO,Boston,Cloud Services,2024-11-30,2024-12-21,active
+REC_000237,Amanda,Davis,amanda.davis@cloudsolutions.net,+1 774 628 1638,Quantum Dynamics LLP,Junior Analyst,San Diego,Cloud Services,2023-03-03,2024-10-08,active
+REC_000020,David,Hernandez,david_hernandez@primeanalytics.com,(731) 599-9028, Forge Technologies ,CEO,Philadelphia,,2025-01-10,2025-01-20,active
+REC_000517,Laura,Thomas,laura_thomas@pinnacle..tech,(550)3875578,,Product Manager,,Cybersecurity,2025-01-14,2025-02-04,inactive
+REC_000424,Richard,Moore,richard.moore@catalyst.software,557441,DataSystems,Software Engineer,Seattle,E-commerce,2025-02-06,2025-02-06,active
+REC_000038,David,Thomas,dthomas@horizon.solutions,701-831-3691,SmartTech Co.,Marketing Specialist,Atlanta,FinTech,2023-02-17,2023-04-13,active
+REC_000435,Mark,Thompson,,(538) 867-8396,Pinnacle Tech,Product Specialist,Portland,,2024-09-10,2024-10-24,active
+REC_000336,Sharon,Moore,sharon_moore@apextech.com,(656)3074563,PRIME ANALYTICS,Senior Product Manager,San Diego,Cloud Services,2025-01-09,2025-01-20,active
+REC_000254,Sharon,Garcia,garcia.sharon@futuresoft.io,+1 671 245 3455,DataSystems Corp.,CTO,,Cybersecurity,2024-11-30,2024-12-03,active
+REC_000024,Sarah,Anderson,sanderson@quantum.io,(740) 426-2236,DataSystems,Business Analyst,,Cloud Services,2025-01-08,2025-01-27,pending
+REC_000154,Daniel,Brown,daniel_brown@futuresoft.io,(638) 954-2588,DataSystems LLP,Chief Data Officer,Denver,Healthcare Tech,2024-11-04,2024-11-16,active
+REC_000226,Thomas,Harris,thomasharris@gmail.com,1-235-457-9304,Prime Analytics Corporation,CDO,Atlanta,Cloud Services,2023-04-07,2024-05-25,active
+REC_000536,Cynthia,Taylor,cynthiataylor@aol.com,, DataSystems ,Director of Operations,,SaaS,2024-10-07,2024-11-04,inactive
+REC_000528,Richard,Ramirez,richard.ramirez@innovatelabs.com,(729)4204818,CloudSolutions,Product Director,Washington DC,E-commerce,2024-05-08,2024-07-30,active
+REC_000172,James,Garcia,james_garcia@digitalventures.co,,SmartTech,Marketing Manager,Los Angeles,E-commerce,2024-11-15,2024-12-11,active
+REC_000037,Jennifer,Smith,jennifer_smith@yahoo.com,755.699.5380,D,Director of Operations,Austin,Cloud Services,2023-08-24,2025-02-03,inactive
+REC_000015,Melissa,Walker,mwalker@smarttech.ai,(922) 712-6597,Pinnacle Tech,,Atlanta,Cloud Services,2025-01-04,2025-01-11,active
+REC_000107,Rebecca,Jones,rebecca_jones@futuresoft.io,654-664-9502,Forge Technologies,Chief Financial Officer,Chicago,Analytics,2024-12-10,2025-02-08,active
+REC_000221,James,Wilson,james.wilson@outlook.com,(380) 593-4464,Matrix Systems Limited,Associate Consultant,Seattle,SaaS,2024-10-15,2025-02-11,active
+REC_000362,Jessica,Lewis,jessicalewis@digitalventures.co,,CloudSolutions LLP,Business Analyst,Washington DC,,2024-04-28,2024-05-24,inactive
+REC_000048,Christopher,Walker,christopherwalker@pinnacle.tech,,SmartTech,Product Specialist,Chicago,Cybersecurity,2025-02-06,2025-02-06,inactive
+REC_000441,James,Walker,james_walker@quantum.io,1-513-925-6813,,Senior Data Analyst,,Healthcare Tech,2024-08-22,2024-10-20,active
+REC_000358,Richard,Ramirez,richard.ramirez@innovatelabs.com,(729)4204818,CloudSolutions,Product Director,Washington DC,E-commerce,2024-05-08,2024-07-30,active
+REC_000144,Laura,Robinson,laura.robinson@primeanalytics.com,860588,HORIZON SOLUTIONS,Engineering Manager,,Cloud Services,2024-10-19,2024-12-04,pending
+REC_000078,Jessica,Davis,jessica.davis@primeanalytics.com,+13222565255,Forge Technologies Inc,Software Engineer,Boston,AI/ML,2024-05-02,2024-05-02,active
+REC_000488,Cynthia,Jackson,cynthia_jackson@synergycorp.com,656.335.2629,DATASYSTEMS,,San Diego,Cloud Services,2024-11-05,2024-12-13,active
+REC_000479,Melissa,Ramirez,melissa.ramirez@pinnacle.tech,1-826-440-3259,Synergy Corp Corporation,Chief Marketing Officer,Denver,Cloud Services,2023-05-25,2023-09-05,pending
+REC_000074,Elizabeth,Sanchez,,(513)5196490,Beacon Analytics,VP Marketing,Philadelphia,,2023-09-20,2024-09-12,active
+REC_000165,Cynthia,Thompson,,537-530-8380, Horizon Solutions ,Senior Sales Executive,,Cloud Services,2024-12-29,2025-01-20,active
+REC_000233,Anthony,Thompson,anthony.thompson@digitalventures.co,+1 895 724 4733,InnovateLabs Corporation,Associate Consultant,,Cybersecurity,2024-10-26,2024-12-09,inactive
+REC_000105,Jane,Robinson,jane_robinson@aol.com,123-456, Quantum Dynamics ,Director of Operations,New York,Cybersecurity,2024-10-14,2024-11-13,pending
+REC_000531,Michael,Walker,michaelwalker@synergycorp.com,2834114289,Titan Systems,Sales Associate,Portland,Analytics,2025-01-13,2025-01-21,active
+REC_000016,Anthony,Young,anthony_young@futuresoft.io,6823881459,spark innovations,Sales Manager,Portland,Analytics,2024-09-23,2024-12-21,inactive
+REC_000377,John,Martin,john.martin@datasystems.io,927423,SmartTech,Chief Executive Officer,,Analytics,2025-01-21,2025-01-29,active
+REC_000401,Donald,Clark,clark.donald@outlook.com,+1 260 925 4544,CLOUDSOLUTIONS,Senior Software Engineer,,FinTech,2024-10-22,2024-12-24,active
+REC_000417,William,Martin,williammartin@aol.com,,AT,,Seattle,Marketing Tech,2025-01-09,2025-01-25,pending
+REC_000331,Cynthia,Rodriguez,rodriguez.cynthia@outlook.com,,CloudSolutions,Director of Analytics,Portland,SaaS,2025-01-06,2025-02-02,pending
+REC_000147,James,Sanchez,,,Velocity Systems Inc,,Atlanta,Analytics,2024-10-18,2024-12-30,pending
+REC_000258,Melissa,Jackson,melissa_jackson@digitalventures.co,+16862954932,InnovateLabs Ltd.,Chief Marketing Officer,,E-commerce,2024-08-04,2024-11-23,active
+REC_000077,Lisa,Jones,lisajones@techcorp.com,492-480-5292,Apex Technologies Inc,Chief Operating Officer,Portland,Cloud Services,2024-04-27,2024-08-15,active
+REC_000501,Mark,Jones,mark.jones@nexgen.com,(854)5728905, Prime Analytics ,Senior Product Manager,,Technology,2024-07-03,2025-01-05,active
+REC_000496,Donald,Ramirez,donald.ramirez@innovatelabs.com,123-456,T,Sales Manager,,Analytics,2024-04-15,2025-02-05,active
+REC_000473,Elizabeth,Walker,elizabethwalker@datasystems.io,, Frontier Tech ,Marketing Director,Philadelphia,Cybersecurity,2025-01-04,2025-01-22,active
+REC_000481,Mark,Lopez,mark_lopez@cloudsolutions.net,1-592-722-5444,datasystems,VP of Sales,San Diego,Cloud Services,2024-11-04,2025-01-27,active
+REC_000169,Christopher,Martin,,123-456,Synergy Corp Corporation,CFO,Los Angeles,E-commerce,2023-11-05,2024-04-10,active
+REC_000409,John,Jackson,,,InnovateLabs Corporation,,Washington DC,FinTech,2024-11-08,2024-12-05,active
+REC_000058,William,Martin,william_martin@gmail.com,1-759-366-9580,Beacon Analytics,CDO,Austin,FinTech,2024-05-23,2024-07-19,active
+REC_000274,Michelle,Young,michelle.young@smarttech.ai,,Catalyst Software,Marketing Coordinator,San Francisco,SaaS,2023-08-12,2024-11-28,active
+REC_000205,Michael,Sanchez,msanchez@velocity.tech,, SmartTech ,Business Development Manager,Denver,,2023-02-12,2024-04-28,inactive
+REC_000248,Laura,Lewis,lauralewis@digitalventures.co,+17292781923,,Marketing Specialist,,Technology,2024-12-16,2025-01-25,inactive
+REC_000295,Cynthia,Lee,clee@outlook.com,123-456,DataSystems,Chief Data Officer,Chicago,Cloud Services,2024-07-06,2024-12-30,active
+REC_000374,William,Wilson,,(821) 831-3326,Titan Systems,Associate Consultant,New York,AI/ML,2025-01-15,2025-02-08,active
+REC_000186,Mark,Brown,mark.brown@apextech.com,665256,Matrix Systems,CMO,Phoenix,,2024-07-29,2024-09-06,pending
+REC_000051,Michael,Walker,michael.walker@techcorp.com,,FutureSoft,Chief Data Officer,,Healthcare Tech,2025-02-06,2025-02-06,inactive
+REC_000245,Paul,Johnson,PAUL_JOHNSON@CATALYST.SOFTWARE,,NS,Sales Representative,,Cybersecurity,2024-10-20,2024-12-16,active
+REC_000075,Sarah,Martin,,964-224-9540,,Product Specialist,Boston,E-commerce,2023-11-02,2023-12-12,pending
+REC_000499,Emily,Hernandez,,+12318046868,Matrix Systems Corp.,Marketing Specialist,Washington DC,Analytics,2024-11-29,2025-01-22,active
+REC_000478,Robert,Young,robert.young@datasystems.io,698760,Catalyst Software Inc,Sales Representative,Chicago,Cloud Services,2024-09-09,2024-10-03,active
+REC_000179,John,Taylor,john.taylor@yahoo.com,3784776578,,Software Engineer,Boston,E-commerce,2024-11-13,2024-11-25,pending
+REC_000419,Cynthia,Davis,cynthia.davis@nexgen.com,1-349-551-3489,Pinnacle Tech,Operations Manager,San Francisco,Cybersecurity,2024-10-27,2025-01-14,inactive
+REC_000108,Sarah,Robinson,sarahrobinson@futuresoft.io,, Spark Innovations ,Engineering Manager,Boston,Marketing Tech,2024-10-29,2025-01-10,active
+REC_000197,Jessica,Martin,,,Summit Software,Sales Representative,Portland,Cloud Services,2024-08-24,2024-12-22,active
+REC_000153,Daniel,Ramirez,daniel.ramirez@primeanalytics.com,721924,C,,New York,SaaS,2024-12-10,2025-01-17,active
+REC_000455,Daniel,Lee,daniel.lee@datasystems.io,770-887-4243,CS,Senior Product Manager,Austin,Analytics,2024-11-10,2025-02-06,inactive
+REC_000242,Cynthia,Thomas,cthomas@pinnacle.tech,,Apex Technologies,Director of Analytics,Chicago,FinTech,2024-11-28,2025-01-17,active
+REC_000039,Richard,Garcia,garcia.richard@gmail.com,,SmartTech,Director of Analytics,Philadelphia,E-commerce,2023-07-28,2023-11-27,inactive
+REC_000189,Amanda,Walker,,+1 286 605 6713,cloudsolutions,Senior Sales Executive,Atlanta,Technology,2024-09-25,2024-11-28,active
+REC_000218,Sharon,Hernandez,hernandez.sharon@yahoo.com,609839,Forge Technologies LLP,Chief Financial Officer,Portland,Technology,2024-11-19,2025-01-05,active
+REC_000504,Cynthia,Robinson,robinson.cynthia@velocity.tech,+1 683 242 2116,,Associate Consultant,,Healthcare Tech,2025-02-10,2025-02-10,active
+REC_000442,Matthew,Lopez,,123-456,Apex Technologies LLP,Data Analyst,Austin,SaaS,2024-09-05,2024-11-18,active
+REC_000063,Amanda,Anderson,anderson.amanda@apextech.com,,quantum dynamics,Engineering Manager,,Technology,2024-10-03,2025-01-31,inactive
+REC_000070,David,Lopez,dlopez@yahoo.com,(668)6259141,Matrix Systems Corporation,Chief Data Officer,,E-commerce,2024-10-26,2025-02-09,active
+REC_000415,Cynthia,Moore,cmoore@smarttech.ai,289.715.1061,Prime Analytics,Assistant Manager,,,2025-01-11,2025-01-27,active
+REC_000493,Cynthia,Garcia,garcia.cynthia@velocity.tech,(883) 975-8550,CloudSolutions,VP of Operations,,E-commerce,2024-11-05,2024-11-10,active
+REC_000140,Lisa,Williams,lisa_williams@datasystems.io,123-456,,Chief Executive Officer,Washington DC,E-commerce,2024-11-03,2024-11-16,active
+REC_000200,Christopher,Thomas,christopherthomas@hotmail.com,,Spark Innovations LLP,VP of Sales,Chicago,Marketing Tech,2023-02-01,2024-06-20,active
+REC_000491,Daniel,Martinez,daniel.martinez@apextech.com,,QD,Senior Consultant,San Diego,Technology,2024-08-09,2024-11-25,active
+REC_000087,Rebecca,Harris,rebecca.harris@horizon.solutions,907.490.2383,FT,VP of Sales,Austin,Healthcare Tech,2024-08-20,2024-12-27,active
+REC_000261,Amanda,Sanchez,amandasanchez@gmail.com,729.612.7732,summit software,Director of Engineering,Washington DC,AI/ML,2025-02-07,2025-02-07,active
+REC_000227,Melissa,Rodriguez,,,Beacon Analytics,Senior Vice President,Seattle,Cybersecurity,2024-10-18,2025-01-08,inactive
+REC_000368,Elizabeth,Lee,elizabethlee@horizon.solutions,123-456,F,Marketing Specialist,New York,Marketing Tech,2024-03-22,2024-12-11,active
+REC_000394,Thomas,Moore,thomasmoore@nexgen.com,123-456,DIGITALVENTURES,Business Analyst,Phoenix,SaaS,2024-03-30,2024-12-03,active
+REC_000354,Thomas,Davis,,, Beacon Analytics ,Senior Vice President,Atlanta,SaaS,2024-12-13,2025-01-20,active
+REC_000371,Jennifer,Walker,jennifer_walker@innovatelabs.com,, Spark Innovations ,Marketing Manager,San Francisco,E-commerce,2024-11-03,2025-01-16,active
+REC_000127,Donald,Ramirez,ramirez.donald@innovatelabs.com,1-760-595-3233,,CMO,Dallas,Cybersecurity,2023-12-30,2024-07-27,active
+REC_000520,David,Hernandez,david_hernandez@primeanalytics.com,(731) 599-9028, Forge Technologies ,CEO,Philadelphia,,2025-01-10,2025-01-20,active
+REC_000162,Elizabeth,Thomas,elizabeththomas@hotmail.com,420-696-8617,DigitalVentures,Data Analyst,Boston,Cloud Services,2025-01-22,2025-01-29,active
+REC_000057,Daniel,Jones,jones.daniel@digitalventures.co,+1 334 966 3859,InnovateLabs,Assistant Manager,,Cybersecurity,2024-12-08,2025-02-03,active
+REC_000093,Donald,Moore,donald.moore@innovatelabs.com,,Quantum Dynamics Corporation,Sales Representative,,E-commerce,2025-02-01,2025-02-01,active
+REC_000530,Richard,Clark,richard_clark@innovatelabs.com,9723454262,TS,Chief Marketing Officer,Atlanta,Cloud Services,2023-02-21,2024-07-11,active
+REC_000294,Rebecca,Lewis,,229.824.9526,Summit Software,Sales Manager,,Healthcare Tech,2024-04-22,2024-08-05,inactive
+REC_000260,Matthew,Lewis,matthew.lewis@digitalventures.co,1-586-206-2111,SI,VP of Operations,Miami,E-commerce,2025-01-06,2025-01-31,active
+REC_000338,Elizabeth,Rodriguez,elizabethrodriguez@techcorp.com,(947)5188004, Beacon Analytics ,COO,Phoenix,,2025-01-08,2025-01-29,active
+REC_000510,Mark,Davis,mdavis@catalyst.software,1-580-916-6691,SYNERGY CORP,Software Engineer,Dallas,SaaS,2024-10-07,2024-11-12,active
+REC_000322,Amanda,Taylor,ataylor@cloudsolutions.net,383492,HORIZON SOLUTIONS,Chief Operating Officer,,Cybersecurity,2025-02-10,2025-02-10,active
+REC_000125,Cynthia,Jackson,,, Matrix Systems ,Senior Sales Executive,San Diego,,2025-01-28,2025-01-31,active
+REC_000174,John,Miller,miller..john@techcorp..com,641-800-6883,SYNERGY CORP,Senior Consultant,Denver,FinTech,2024-04-27,2025-01-06,inactive
+REC_000266,Laura,Clark,lauraclark@velocity.tech,8776698516,,CEO,Phoenix,Analytics,2025-02-03,2025-02-03,inactive
+REC_000503,Rebecca,Thomas,rebeccathomas@apextech.com,(309)2895667,,Operations Manager,Atlanta,E-commerce,2025-02-09,2025-02-09,inactive
+REC_000061,Christopher,Clark,clark.christopher@nexgen.com,+18029707053,,Associate Consultant,Phoenix,Technology,2025-01-08,2025-02-09,active
+REC_000453,Richard,Taylor,richard_taylor@cloudsolutions.net,451680, Forge Technologies ,Senior Consultant,Washington DC,Technology,2023-10-06,2023-12-06,active
+REC_000064,Jessica,Ramirez,,(703)4108695,Beacon Analytics Inc,Marketing Specialist,Denver,SaaS,2024-11-07,2025-02-03,active
+REC_000195,Jennifer,Clark,clark.jennifer@hotmail.com,328.823.2047,Horizon Solutions Inc.,VP Marketing,Boston,Cybersecurity,2024-10-31,2025-02-13,active
+REC_000381,Emily,Jones,jones.emily@apextech.com,,,,Washington DC,,2024-10-18,2024-11-29,active
+REC_000199,Jane,Walker,,,,VP Marketing,Chicago,Marketing Tech,2024-09-27,2025-01-02,inactive
+REC_000182,Rebecca,Thomas,thomas.rebecca@quantum.io,+17763758032,AT,Senior Data Analyst,San Diego,Analytics,2025-01-25,2025-02-05,inactive
+REC_000388,Emily,Walker,emily_walker@datasystems.io,,,Marketing Specialist,Boston,Healthcare Tech,2024-04-30,2024-05-07,active
+REC_000062,Rebecca,Jones,,230.678.7860, SmartTech ,Engineering Manager,Seattle,Cybersecurity,2023-05-17,2023-12-13,active
+REC_000523,Amanda,Martinez,amandamartinez@quantum.io,(493)9895943,FutureSoft,,,,2024-11-07,2025-02-06,active
+REC_000208,William,Davis,williamdavis@hotmail.com,,Velocity Systems,CEO,Portland,FinTech,2024-10-22,2024-11-19,pending
+REC_000003,Mark,Young,myoungsynergycorp.com,+1 774 279 4069,DigitalVentures,Senior Product Manager,Seattle,Technology,2025-02-06,2025-02-06,active
+REC_000092,Elizabeth,Rodriguez,,(603) 931-1403,FT,Account Manager,San Francisco,FinTech,2024-12-23,2025-02-07,active
+REC_000426,Michelle,Martin,martin.michelle@catalyst.software,(817)3973540,Spark Innovations,Vice President of Engineering,Boston,Healthcare Tech,2024-01-09,2024-11-11,inactive
+REC_000376,Sharon,Williams,sharon.williams@yahoo.com,,spark innovations,Product Manager,Phoenix,Healthcare Tech,2024-10-13,2024-11-22,active
+REC_000158,Emily,Harris,harris.emily @ hotmail.com,+17314383758,Apex Technologies LLP,Chief Marketing Officer,Portland,Cybersecurity,2024-08-08,2024-08-21,inactive
+REC_000317,Christopher,Clark,clark.christopher@innovatelabs.com,8192465848,PT,Chief Financial Officer,Phoenix,,2024-12-16,2025-01-01,active
+REC_000282,Amanda,Thompson,amandathompson@hotmail.com,230494,Horizon Solutions LLP,CMO,,SaaS,2025-02-02,2025-02-02,active
+REC_000094,John,Moore,john_moore@datasystems.io,,Summit Software Limited,COO,Washington DC,AI/ML,2024-06-03,2024-06-06,active
+REC_000487,Michael,Hernandez,michael_hernandez@catalyst.software,959-659-5195,Frontier Tech Corp.,Director of Analytics,Los Angeles,SaaS,2023-01-28,2024-05-31,inactive
+REC_000437,Paul,Sanchez,paul_sanchez@primeanalytics.com,(970)3896963,vertex analytics,CMO,,Marketing Tech,2025-01-02,2025-01-27,active
+REC_000228,David,Young,young.david@apextech.com,+16895757374,FUTURESOFT,Chief Financial Officer,Atlanta,,2024-12-21,2025-01-31,active
+REC_000462,Jane,Moore,jmoore@primeanalytics.com,1-416-972-5223,TechCorp,,Atlanta,Analytics,2023-06-13,2024-12-17,active
+REC_000366,John,Miller,john.miller@horizon.solutions,+13416735664,CloudSolutions,VP of Operations,San Francisco,,2025-01-21,2025-02-05,inactive
+REC_000209,Lisa,Young,lisayoung@horizon.solutions,123-456, Frontier Tech ,Senior Consultant,,FinTech,2025-01-13,2025-01-26,active
+REC_000190,Cynthia,Taylor,cynthiataylor@aol.com,, DataSystems ,Director of Operations,,SaaS,2024-10-07,2024-11-04,inactive
+REC_000018,Christopher,Wilson,wilson.christopher@pinnacle.tech,123-456,Prime Analytics Corporation,Assistant Manager,,Healthcare Tech,2023-07-18,2023-08-21,inactive
+REC_000212,Amanda,Moore,amandamoore@smarttech.ai,+12096292491,Catalyst Software,Software Engineer,New York,Healthcare Tech,2025-01-24,2025-01-30,inactive
+REC_000231,Rebecca,Anderson,rebeccaanderson@synergycorp.com,(500) 317-2868,Pinnacle Tech Corporation,Business Development Manager,San Diego,,2025-01-26,2025-02-13,active
+REC_000001,Paul,Hernandez,paulhernandez@smarttech.ai,(892)4143876,,Senior Sales Executive,New York,Marketing Tech,2023-03-08,2023-09-23,active
+REC_000194,William,Robinson,wrobinson@cloudsolutions.net,(429) 850-2427,NexGen Solutions,Operations Manager,Portland,,2024-09-23,2024-11-11,active
+REC_000369,Anthony,Lopez,alopez@velocity.tech,,,Software Engineer,,SaaS,2024-05-27,2024-12-12,active
+REC_000230,Daniel,Lopez,daniel_lopez@synergycorp.com,(933) 350-3949,Frontier Tech Corporation,CTO,Seattle,SaaS,2025-02-10,2025-02-10,pending
+REC_000224,Amanda,Miller,amandamiller@smarttech.ai,510653,SMARTTECH,CFO,,Marketing Tech,2024-10-10,2025-02-11,active
+REC_000167,Jane,Taylor,jane.taylor@gmail.com,123-456,,Chief Marketing Officer,Phoenix,Cloud Services,2024-09-25,2025-02-05,active
+REC_000519,Cynthia,Brown,cbrown@velocity.tech,499.229.9052,TechCorp,Data Analyst,,,2024-12-24,2024-12-31,active
+REC_000538,Jessica,Davis,jessica.davis@primeanalytics.com,+13222565255,Forge Technologies Inc,Software Engineer,Boston,AI/ML,2024-05-02,2024-05-02,active
+REC_000223,Sarah,Young,SARAH.YOUNG@PINNACLE.TECH,,VELOCITY SYSTEMS,VP of Operations,,Technology,2023-09-25,2024-05-13,active
+REC_000524,Rebecca,Martinez,rebecca_martinez@apextech.com,123-456,Vertex Analytics,Assistant Manager,Boston,AI/ML,2024-10-07,2024-11-09,active
+REC_000269,Sarah,Miller,smiller@hotmail.com,1-859-623-6853,Catalyst Software,Software Engineer,,Analytics,2025-02-09,2025-02-09,active
+REC_000181,Elizabeth,Williams,elizabeth_williams@digitalventures.co,+1 484 747 6148,TechCorp,VP of Sales,Washington DC,AI/ML,2024-08-12,2025-02-14,active
+REC_000060,Emily,Martinez,martinez.emily@icloud.com,123-456,VELOCITY SYSTEMS,Product Manager,,FinTech,2023-04-23,2023-12-18,active
+REC_000043,Sharon,Thompson,,881793,DATASYSTEMS,Assistant Manager,Washington DC,Cybersecurity,2024-01-14,2024-02-06,active
+REC_000370,Daniel,Johnson,johnson.daniel@aol.com,430.269.9111,FUTURESOFT,COO,Seattle,,2023-12-14,2025-01-12,active
+REC_000133,Cynthia,Robinson,robinson.cynthia@velocity.tech,+1 683 242 2116,,Associate Consultant,,Healthcare Tech,2025-02-10,2025-02-10,active
+REC_000047,Robert,Taylor,roberttaylor@techcorp.com,,,Business Analyst,San Diego,Analytics,2024-04-05,2024-06-18,active
+REC_000293,Laura,Walker,walker.laura@quantum.io,1-280-407-5921,,Assistant Manager,,AI/ML,2025-01-11,2025-01-19,active
+REC_000403,Jennifer,Moore,moore.jennifer@cloudsolutions.net,330.623.9911,Spark Innovations,Product Director,Los Angeles,Marketing Tech,2025-02-11,2025-02-11,inactive
+REC_000433,Laura,Clark,laura.clark@hotmail.com,1-949-271-7231,,Sales Director,Seattle,AI/ML,2025-01-20,2025-02-13,inactive
+REC_000345,Sharon,Sanchez,sanchez.sharon@apextech.com,+18969549312,SmartTech Corp.,Chief Marketing Officer,San Francisco,E-commerce,2024-05-13,2024-10-29,inactive
+REC_000056,Rebecca,Lewis,rlewis@aol.com,, Frontier Tech ,Account Manager,Los Angeles,,2023-09-01,2024-10-26,active
+REC_000497,Matthew,Sanchez,matthew.sanchez@synergycorp.com,+17296895598,nexgen solutions,Business Development Manager,Dallas,FinTech,2024-02-17,2024-02-21,active
+REC_000490,Sharon,Clark,sharon_clark@gmail.com,,Horizon Solutions,Senior Vice President,,Marketing Tech,2024-07-10,2024-08-06,inactive
+REC_000220,Paul,Thompson,thompson.paul@digitalventures.co,954-698-5929,DigitalVentures,Data Analyst,Denver,,2024-04-27,2024-05-16,active
+REC_000477,Donald,Rodriguez,donaldrodriguez@primeanalytics.com,123-456,Synergy Corp Corporation,Director of Analytics,,Healthcare Tech,2025-01-09,2025-02-14,active
+REC_000316,Thomas,Garcia,thomasgarcia@apextech.com,957-698-1140,,Associate Consultant,Chicago,AI/ML,2024-10-20,2024-11-27,active
+REC_000163,Robert,Williams,,785.370.7326,Beacon Analytics,Marketing Specialist,Boston,Marketing Tech,2024-11-19,2024-12-22,active
+REC_000431,Elizabeth,Martin,martin.elizabeth@datasystems.io,(333)4257064,Elevate Solutions LLC,Director of Engineering,Los Angeles,E-commerce,2024-11-14,2025-02-02,inactive
+REC_000005,Jane,Wilson,jwilson@hotmail.com,568816,HORIZON SOLUTIONS,Senior Software Engineer,Miami,,2025-01-23,2025-02-02,pending
+REC_000288,Paul,Jackson,paul_jackson@innovatelabs.com,,D,VP Business Development,Boston,Marketing Tech,2023-03-30,2023-12-08,active
+REC_000273,Robert,Rodriguez,robert_rodriguez@gmail.com,220.414.7856,beacon analytics,Lead Developer,Phoenix,E-commerce,2024-10-31,2025-01-22,inactive
+REC_000279,Lisa,Moore,lmoore@catalyst.software,8325112844,SPARK INNOVATIONS,Sales Associate,Seattle,E-commerce,2024-10-26,2025-01-13,active
+REC_000525,Jennifer,Miller,,+18766431252,DigitalVentures Co.,Senior Data Analyst,Miami,FinTech,2025-01-30,2025-02-07,active
+REC_000421,Daniel,Thomas,thomas.daniel@datasystems.io,938-493-5160,BEACON ANALYTICS,Product Manager,Seattle,Marketing Tech,2025-02-09,2025-02-09,active
+REC_000507,Kathleen,Jackson,kathleen.jackson@techcorp.com,853.304.1989,Pinnacle Tech,Chief Technology Officer,Washington DC,,2025-02-12,2025-02-12,active
+REC_000177,Laura,White,laura.white@horizon.solutions,913.756.9767,Beacon Analytics,Senior Consultant,,,2025-01-11,2025-01-26,active
+REC_000486,Sharon,Taylor,staylor@outlook.com,885.709.5003,BEACON ANALYTICS,Chief Operating Officer,Phoenix,FinTech,2025-01-13,2025-01-21,active
+REC_000079,Anthony,Garcia,anthony_garcia@cloudsolutions.net,+1 949 305 1303,PA,Product Director,Dallas,AI/ML,2025-01-29,2025-02-07,pending
+REC_000236,Sarah,Wilson,sarah_wilson@pinnacle.tech,,InnovateLabs,Senior Product Manager,Boston,E-commerce,2024-10-26,2024-12-28,active
+REC_000300,Elizabeth,Williams,ewilliams@primeanalytics.com,,SPARK INNOVATIONS,Software Engineer,,Analytics,2025-01-29,2025-02-03,active
+REC_000110,Robert,Walker,robertwalker@techcorp.com,123-456,Quantum Dynamics,Marketing Manager,Portland,FinTech,2025-01-27,2025-02-04,active
+REC_000324,Rebecca,White,rwhite@hotmail.com,647.251.2428,Prime Analytics,CFO,San Diego,Marketing Tech,2024-11-02,2025-02-03,active
+REC_000253,Mark,Thomas,mthomas@velocity.tech,,Synergy Corp LLP,Chief Marketing Officer,Portland,AI/ML,2024-05-09,2024-08-04,inactive
+REC_000271,Rebecca,Martinez,rebecca_martinez@apextech.com,123-456,Vertex Analytics,Assistant Manager,Boston,AI/ML,2024-10-07,2024-11-09,active
+REC_000100,Lisa,Jones,,+1 794 550 5003, NexGen Solutions ,CDO,Portland,Analytics,2024-10-03,2024-10-30,active
+REC_000532,Melissa,Wilson,wilson.melissa@techcorp.com,941-556-7397,Catalyst Software Inc,CTO,,Marketing Tech,2025-02-06,2025-02-06,active
+REC_000059,Kathleen,Jackson,kathleen.jackson@techcorp.com,853.304.1989,Pinnacle Tech,Chief Technology Officer,Washington DC,,2025-02-12,2025-02-12,active
+REC_000157,Robert,Clark,robert_clark@cloudsolutions.net,+1 377 314 3727,DataSystems Corporation,VP of Operations,Atlanta,Cloud Services,2023-08-25,2024-10-11,active
+REC_000139,William,Lewis,lewis.william@icloud.com,+1 848 388 6221,,Senior Software Engineer,Boston,Marketing Tech,2024-10-05,2025-02-08,active
+REC_000468,Richard,Williams,richard_williams@digitalventures.co,1-743-401-9457,Apex Technologies Limited,Product Director,San Francisco,Technology,2024-06-06,2024-06-16,pending
+REC_000375,Amanda,Martinez,amandamartinez@quantum.io,(493)9895943,FutureSoft,,,,2024-11-07,2025-02-06,active
+REC_000328,Elizabeth,Jones,ejones@pinnacle.tech,696-374-9206,FutureSoft,Marketing Director,Atlanta,Cloud Services,2023-08-06,2023-10-09,inactive
+REC_000028,Sharon,Martinez,smartinez @ futuresoft.io,, Horizon Solutions ,Sales Associate,,,2024-12-09,2025-02-01,inactive
+REC_000239,Cynthia,Jones,,,Catalyst Software,Senior Data Analyst,Dallas,E-commerce,2024-11-22,2024-12-21,inactive
+REC_000427,Thomas,Jones,thomas.jones@datasystems.io,+13964852545,CloudSolutions,Account Manager,Seattle,,2024-11-18,2024-11-29,active
+REC_000459,Christopher,Johnson,christopher.johnson@catalyst.software,641-504-2201,InnovateLabs,Senior Consultant,New York,AI/ML,2024-10-06,2024-12-16,active
+REC_000178,Thomas,Martin,thomasmartin@hotmail.com,+17699909086,Velocity Systems,Product Manager,Boston,FinTech,2024-10-30,2025-01-10,inactive
+REC_000022,Paul,Davis,paul.davis@futuresoft.io,712-914-1598,Spark Innovations LP,Associate Consultant,Seattle,E-commerce,2024-05-03,2024-12-12,pending
+REC_000458,Emily,Young,emily.young@pinnacle.tech,+17566369705,Beacon Analytics Limited,Operations Manager,Phoenix,AI/ML,2023-09-17,2023-10-23,active
+REC_000088,Mark,Jackson,mjackson@horizon.solutions,123-456,Velocity Systems,Senior Vice President,Chicago,SaaS,2023-09-19,2024-01-10,active
+REC_000213,Anthony,Anderson,anderson.anthony@synergycorp.com,296-481-8767,summit software,Junior Developer,Philadelphia,Cloud Services,2025-01-06,2025-01-08,pending
+REC_000412,Michael,Rodriguez,michael.rodriguez@quantum.io,+12119836022,SMARTTECH,Chief Financial Officer,,FinTech,2024-05-08,2024-09-16,active
+REC_000188,Robert,Davis,robert.davis@aol.com,896.637.2436,NexGen Solutions,Director of Engineering,,Marketing Tech,2025-02-09,2025-02-09,active
+REC_000400,Christopher,Jones,jones.christopher@outlook.com,(905)6868939,SI,Senior Software Engineer,Boston,Technology,2025-02-02,2025-02-02,pending
+REC_000170,Mark,Martin,mark.martin@catalyst.software,7086818409, SmartTech ,VP Business Development,,SaaS,2024-12-24,2025-02-13,pending
+REC_000115,Jennifer,Wilson,jennifer.wilson@pinnacle.tech,610.786.7742, Pinnacle Tech ,,Philadelphia,E-commerce,2024-11-23,2025-01-23,active
+REC_000476,Sarah,Smith,smith.sarah@aol.com,(708) 641-3367,Prime Analytics,Chief Technology Officer,,Analytics,2024-12-13,2025-01-26,inactive
+REC_000308,John,Garcia,garcia.john@innovatelabs.com,656.426.7142,,Product Director,Washington DC,SaaS,2024-07-11,2024-08-06,active
+REC_000135,Rebecca,Harris,,1-943-812-6279,DataSystems,VP Marketing,Phoenix,,2024-03-07,2024-04-18,inactive
+REC_000256,Christopher,Lopez,lopez.christopher@futuresoft.io,(931) 414-5239,F,Associate Consultant,Denver,Marketing Tech,2025-01-31,2025-02-10,inactive
+REC_000098,Matthew,Lopez,lopez.matthew@outlook.com,(930)5349792,TechCorp,,Atlanta,Analytics,2024-11-02,2024-11-15,active
+REC_000026,Robert,White,white.robert@horizon.solutions,+13402264386,,Senior Product Manager,Atlanta,Analytics,2023-07-22,2024-10-01,active
+REC_000112,Sharon,Davis,,2645323419,quantum dynamics,Chief Financial Officer,Austin,E-commerce,2024-11-20,2024-12-01,active
+REC_000312,Cynthia,Brown,cbrown@velocity.tech,499.229.9052,TechCorp,Data Analyst,,,2024-12-24,2024-12-31,active
+REC_000104,Amanda,Jones,,(972)3748979,HORIZON SOLUTIONS,Chief Technology Officer,Denver,,2025-02-01,2025-02-01,inactive
+REC_000278,Matthew,Williams,matthewwilliams@gmail.com,(832) 309-2596,DigitalVentures Ltd.,CEO,Atlanta,Cloud Services,2024-08-05,2025-02-08,pending
+REC_000198,Kathleen,Jackson,kathleen_jackson@datasystems.io,(696) 801-4062,ELEVATE SOLUTIONS,Sales Representative,Philadelphia,Analytics,2024-06-02,2024-11-01,inactive
+REC_000514,Daniel,Johnson,,123-456,Quantum Dynamics Corporation,Sales Representative,Chicago,,2024-11-20,2025-01-25,active
+REC_000508,Sarah,Anderson,sarah_anderson@hotmail.com,(736)3448342,,CEO,Philadelphia,Marketing Tech,2025-01-27,2025-02-13,active
+REC_000304,Anthony,Anderson,anthonyanderson@cloudsolutions.net,(940) 694-9704,,VP of Operations,Denver,Healthcare Tech,2025-01-21,2025-01-25,inactive
+REC_000257,John,Lewis,john.lewis@icloud.com,949.731.2205,Pinnacle Tech LP,Senior Vice President,Los Angeles,,2025-02-02,2025-02-02,active
+REC_000411,Rebecca,Jackson,,,FUTURESOFT,Sales Director,Austin,Analytics,2024-10-09,2024-12-01,active
+REC_000283,Richard,Williams,richardwilliams@apextech.com,(829)9379190,Summit Software,VP Marketing,Phoenix,Technology,2024-05-19,2024-11-26,active
+REC_000492,James,Walker,jameswalker@smarttech.ai,953-709-5757,Beacon Analytics Co.,COO,New York,Cybersecurity,2025-01-25,2025-02-08,inactive
+REC_000334,Cynthia,Johnson,cynthia_johnson@velocity.tech,,Synergy Corp,,Chicago,,2023-06-15,2023-08-11,inactive
+REC_000130,Jessica,Thomas,jessica_thomas@nexgen.com,+1 489 401 8322,SI,CTO,Miami,SaaS,2024-12-28,2025-01-30,active
+REC_000050,Elizabeth,Rodriguez,rodriguez.elizabeth@cloudsolutions.net,123-456,HORIZON SOLUTIONS,Business Development Manager,Phoenix,E-commerce,2024-12-28,2025-02-11,active
+REC_000232,Cynthia,Wilson,cynthiawilson@quantum.io,(513)4323622,Forge Technologies,Chief Technology Officer,,Cloud Services,2024-07-23,2025-01-24,inactive
+REC_000522,Jane,Robinson,janerobinson@pinnacle.tech,+14384828609,Summit Software,Lead Developer,Philadelphia,,2024-11-08,2024-12-13,active
+REC_000204,Robert,Jones,rjones@primeanalytics.com,123-456,NS,Senior Consultant,San Diego,Technology,2025-01-05,2025-01-20,pending
+REC_000393,Jennifer,Miller,,+18766431252,DigitalVentures Co.,Senior Data Analyst,Miami,FinTech,2025-01-30,2025-02-07,active
+REC_000192,Jane,Young,jane_young@horizon.solutions,,SmartTech,Assistant Manager,Denver,Healthcare Tech,2024-10-10,2024-11-29,active
+REC_000494,Richard,Ramirez,richard_ramirez@datasystems.io,,Matrix Systems Corp.,Product Specialist,San Diego,AI/ML,2024-06-13,2024-07-04,inactive
+REC_000025,Amanda,Jones,,,Velocity Systems Co.,CDO,,,2024-07-03,2025-01-13,active
+REC_000500,Jessica,Rodriguez,jrodriguez@innovatelabs.com,123-456,Pinnacle Tech,Sales Representative,Austin,Technology,2025-02-13,2025-02-13,pending
+REC_000350,Matthew,Wilson,matthew.wilson@futuresoft.io,822-758-9187,Matrix Systems Inc,Marketing Specialist,Atlanta,E-commerce,2025-01-26,2025-01-28,active
+REC_000379,Emily,Johnson,johnson.emily@primeanalytics.com,822.291.3701,InnovateLabs Inc.,Marketing Manager,Portland,,2023-03-24,2023-05-24,active
+REC_000143,Robert,Jackson,robert.jackson@velocity.tech,(649) 419-3716,Velocity Systems,Chief Operating Officer,,Healthcare Tech,2024-12-22,2025-02-02,active
+REC_000071,Melissa,Walker,melissa.walker@catalyst.software,1-517-211-2500,Catalyst Software,Software Engineer,Dallas,Cloud Services,2025-01-07,2025-01-27,pending
+REC_000443,Amanda,Martinez,amanda.martinez@hotmail.com,968323,VS,Director of Engineering,Boston,Cybersecurity,2025-02-05,2025-02-05,inactive
+REC_000225,William,Young,wyoung@catalyst.software,234.966.2188,DIGITALVENTURES,Marketing Specialist,Atlanta,Technology,2024-12-24,2024-12-29,active
+REC_000470,Matthew,Johnson,matthewjohnson@synergycorp.com,710-258-9129,,Sales Director,Los Angeles,Cybersecurity,2023-10-10,2024-10-12,active
+REC_000117,Michael,Davis,michael_davis@horizon.solutions,,Quantum Dynamics Ltd.,,,AI/ML,2024-11-02,2024-11-11,active
+REC_000436,Thomas,Lopez,lopez.thomas@gmail.com,670.278.9920, NexGen Solutions ,Data Analyst,,FinTech,2025-01-23,2025-01-29,active
+REC_000009,Elizabeth,Lee,,+19765081707,,Junior Analyst,Seattle,Marketing Tech,2024-10-07,2024-11-02,active
+REC_000275,Cynthia,Sanchez,,123-456,CloudSolutions,Account Manager,,Analytics,2025-01-26,2025-02-14,active
+REC_000185,John,Williams,,6378997180, TechCorp ,Product Director,,Technology,2025-02-04,2025-02-04,active
+REC_000382,Amanda,Sanchez,amanda_sanchez@digitalventures.co,123-456,SPARK INNOVATIONS,Sales Director,,Marketing Tech,2025-02-04,2025-02-04,active
+REC_000166,Sharon,Sanchez,sanchez.sharon@outlook.com,(739)2157343,elevate solutions,,Los Angeles,AI/ML,2025-01-03,2025-01-10,pending
+REC_000314,Amanda,Taylor,,2208131516,CloudSolutions,CMO,,Cybersecurity,2023-06-09,2023-11-24,inactive
+REC_000124,John,Brown,john.brown@quantum.io,958946,CloudSolutions,Product Manager,,SaaS,2025-01-17,2025-01-24,pending
+REC_000012,Robert,Williams,robert_williams@datasystems.io,,Prime Analytics,VP of Operations,Boston,,2023-07-19,2024-04-15,active
+REC_000342,Anthony,Hernandez,anthony_hernandez@horizon.solutions,(589) 319-6959,Synergy Corp Inc.,CMO,Seattle,E-commerce,2024-08-01,2025-01-29,inactive
+REC_000526,Jennifer,Wilson,jwilson@outlook.com,123-456,,Sales Representative,Portland,,2024-12-03,2024-12-29,active
+REC_000332,Kathleen,Wilson,,+1 308 942 4812,Frontier Tech,Sales Director,Boston,,2025-01-07,2025-01-31,active
+REC_000234,Jennifer,Miller,jennifer_miller@cloudsolutions.net,123-456,Velocity Systems,Operations Manager,,AI/ML,2024-12-15,2025-01-29,active
+REC_000373,Melissa,Thompson,melissa_thompson@futuresoft.io,123-456,,Engineering Manager,Seattle,Healthcare Tech,2025-01-02,2025-01-20,active
+REC_000222,Donald,Rodriguez,donaldrodriguez@futuresoft.io,123-456,Summit Software Corp.,Sales Manager,,E-commerce,2024-12-19,2025-01-20,inactive
+REC_000457,Melissa,White,,1-900-983-8635,,Chief Data Officer,San Francisco,AI/ML,2023-09-12,2024-02-04,active
+REC_000113,Kathleen,Jones,jones.kathleen@horizon.solutions,1-930-251-4605,Titan Systems Inc.,Chief Technology Officer,New York,AI/ML,2025-02-08,2025-02-08,active
+REC_000351,Sharon,Ramirez,sharon.ramirez@yahoo.com,+15272102501,Pinnacle Tech Corp.,Senior Data Analyst,,Marketing Tech,2025-01-13,2025-01-16,active
+REC_000485,Jessica,Rodriguez,jrodriguez@innovatelabs.com,123-456,Pinnacle Tech,Sales Representative,Austin,Technology,2025-02-13,2025-02-13,pending
+REC_000365,Jessica,Lewis,jessica.lewis@innovatelabs.com,1-244-285-7124,Apex Technologies,Chief Technology Officer,Miami,SaaS,2025-01-15,2025-01-31,inactive
+REC_000447,Mark,Thompson,mthompson@gmail.com,+1 755 318 4771,CloudSolutions Limited,Senior Sales Executive,Phoenix,,2024-09-07,2024-11-30,active
+REC_000305,James,Anderson,james.anderson@apextech.com,822-657-1196,SmartTech,,Phoenix,FinTech,2025-01-19,2025-02-10,active
+REC_000475,Mark,Wilson,mwilson@hotmail.com,123-456,,Chief Technology Officer,,Cybersecurity,2025-01-02,2025-02-10,active
+REC_000065,Emily,Young,young.emily@datasystems.io,+1 892 383 8058,,Director of Analytics,,Analytics,2024-09-29,2024-11-23,active
+REC_000183,Sarah,Lewis,slewis@horizon.solutions,977390,,Data Analyst,,Cybersecurity,2024-11-01,2025-01-07,inactive
+REC_000196,Sarah,Moore,,+16389143590,Matrix Systems,Marketing Manager,Seattle,SaaS,2025-01-18,2025-02-01,active
+REC_000513,Amanda,Moore,amandamoore@smarttech.ai,+12096292491,Catalyst Software,Software Engineer,New York,Healthcare Tech,2025-01-24,2025-01-30,inactive
+REC_000289,Sharon,Williams,sharonwilliams@icloud.com,1-323-818-2364,SS,COO,Atlanta,Marketing Tech,2024-10-18,2024-12-28,active
+REC_000346,Richard,Robinson,richardrobinson@techcorp.com,+12526013754,innovatelabs,,Miami,,2023-03-22,2023-07-20,active
+REC_000091,William,Hernandez,williamhernandez@apextech.com,1-450-464-1522,pinnacle tech,Sales Manager,Portland,FinTech,2025-01-10,2025-01-28,active
+REC_000180,Anthony,Brown,brown.anthony@datasystems.io,1-521-983-4011,quantum dynamics,VP Business Development,New York,,2024-07-19,2024-07-22,active
+REC_000313,Rebecca,Martinez,,, Forge Technologies ,Director of Engineering,Miami,,2025-01-17,2025-01-27,inactive
+REC_000320,Mark,Garcia,,1-242-730-9982,CloudSolutions Corp.,Marketing Director,New York,Cloud Services,2024-11-02,2025-02-11,active
+REC_000343,Laura,Thomas,lthomas@quantum.io,,DataSystems,VP Business Development,Austin,Analytics,2024-06-22,2025-02-04,inactive
+REC_000359,Mark,Jones,mark.jones@nexgen.com,(854)5728905, Prime Analytics ,Senior Product Manager,,Technology,2024-07-03,2025-01-05,active
+REC_000217,Cynthia,Moore,,720-977-4708,TITAN SYSTEMS,CMO,San Diego,,2025-01-25,2025-02-12,active
+REC_000287,Jennifer,Hernandez,jhernandez@catalyst.software,+1 966 387 3540,FUTURESOFT,,Austin,E-commerce,2023-03-19,2023-06-28,active
+REC_000349,Sharon,Thomas,,+1 368 759 4679,NS,Junior Analyst,Philadelphia,SaaS,2024-06-09,2024-08-15,active
+REC_000211,Thomas,Sanchez,tsanchez@primeanalytics.com,(509)8074185,smarttech,Senior Software Engineer,Boston,E-commerce,2024-11-02,2025-01-01,active
+REC_000214,Emily,Sanchez,emily_sanchez@innovatelabs.com,(418)7338951,Summit Software,Junior Analyst,Miami,,2023-09-03,2024-02-09,active
+REC_000244,Sharon,Harris,sharris@synergycorp.com,+1 209 899 9846,Catalyst Software,Director of Analytics,,SaaS,2024-11-29,2025-01-27,active
+REC_000472,William,Lee,wlee@apextech.com,1-401-205-5944,CloudSolutions Inc,Chief Technology Officer,,Cybersecurity,2023-02-14,2023-11-22,active
+REC_000159,Sharon,Young,sharonyoung@primeanalytics.com,+1 377 475 4481,InnovateLabs Inc.,Sales Manager,,Cybersecurity,2025-01-27,2025-02-08,active
+REC_000357,Mark,Martin,mark.martin@quantum.io,123-456,FORGE TECHNOLOGIES,Senior Vice President,Atlanta,Analytics,2025-02-13,2025-02-13,active
+REC_000084,Michael,Thompson,michaelthompson@primeanalytics.com,791362,DigitalVentures LP,Marketing Manager,Miami,,2025-02-11,2025-02-11,active
+REC_000463,Donald,Anderson,,+13596467681,Catalyst Software,Junior Developer,Denver,SaaS,2024-10-25,2025-01-13,active
+REC_000298,Richard,Davis,davis.richard@horizon.solutions,,Apex Technologies,Chief Data Officer,Los Angeles,FinTech,2025-01-03,2025-01-25,active
+REC_000454,Sarah,Martin,sarah.martin@outlook.com,+1 623 431 4663,CloudSolutions,VP of Operations,Denver,,2025-02-02,2025-02-02,active
+REC_000250,William,Anderson,,123-456,QD,Director of Analytics,Atlanta,AI/ML,2023-03-19,2024-09-02,active
+REC_000449,Rebecca,Thompson,rebeccathompson@smarttech.ai,+12572851000,techcorp,Sales Director,Portland,FinTech,2024-09-12,2024-10-22,active
+REC_000281,Richard,Lewis,richardlewis@yahoo.com,+1 295 774 9897,spark innovations,,,Healthcare Tech,2025-01-08,2025-01-08,active
+REC_000121,John,Moore,john.moore@apextech.com,123-456,,Chief Data Officer,Chicago,,2025-01-21,2025-02-04,active
+REC_000380,Christopher,Lewis,christopher_lewis@catalyst.software,+12602579491,VELOCITY SYSTEMS,VP of Operations,Phoenix,,2024-11-07,2024-11-13,inactive
+REC_000420,Kathleen,Lewis,kathleen.lewis@digitalventures.co,,Frontier Tech,Chief Technology Officer,Miami,SaaS,2025-02-09,2025-02-09,inactive
+REC_000434,Richard,Garcia,richardgarcia@synergycorp.com,, Velocity Systems ,Marketing Director,San Francisco,FinTech,2025-01-15,2025-02-04,active
+REC_000049,Matthew,Lopez,mlopez@aol.com,740758,Synergy Corp Limited,Chief Financial Officer,Boston,Cybersecurity,2024-12-02,2024-12-17,inactive
+REC_000451,Michelle,Lewis,,+1 357 691 2992,D,Chief Executive Officer,New York,Cybersecurity,2024-12-26,2025-01-04,active
+REC_000395,Amanda,Rodriguez,amanda.rodriguez@yahoo.com,(935) 684-2268,Summit Software,VP Marketing,Los Angeles,Technology,2024-10-23,2025-01-22,active
+REC_000506,Amanda,Sanchez,amandasanchez@gmail.com,729.612.7732,summit software,Director of Engineering,Washington DC,AI/ML,2025-02-07,2025-02-07,active
+REC_000352,Jane,Lee,jlee@horizon.solutions,+15574726816,Synergy Corp,,Los Angeles,Cloud Services,2024-12-21,2024-12-26,active
+REC_000036,David,Thompson,davidthompson@synergycorp.com,1-248-360-2425,SPARK INNOVATIONS,Product Manager,Denver,E-commerce,2024-12-29,2025-01-06,active
+REC_000150,Jennifer,Lee,jennifer_lee@smarttech.ai,440.972.4344,prime analytics,Senior Data Analyst,,,2025-01-01,2025-02-10,active
+REC_000307,William,Lewis,wlewis@pinnacle.tech,123-456,SmartTech,,Austin,Technology,2024-01-09,2024-12-06,active
+REC_000384,Matthew,Rodriguez,mrodriguez@digitalventures.co,8943852987,Summit Software LP,Operations Manager,San Diego,Marketing Tech,2024-08-05,2024-08-11,inactive
+REC_000360,William,Thomas,,(622) 272-3870, Spark Innovations ,Product Specialist,Washington DC,AI/ML,2023-08-01,2023-10-13,active
+REC_000164,Daniel,Lee,daniel_lee@aol.com,985-491-3932,HS,VP Business Development,Philadelphia,AI/ML,2024-06-08,2024-07-02,inactive
+REC_000327,William,Lee,williamlee@catalyst.software,+1 566 601 8986,Titan Systems Corporation,VP Business Development,,,2025-02-13,2025-02-13,active
+REC_000151,Jane,Jackson,jackson.jane@quantum.io,554-758-5942,DigitalVentures,VP Marketing,Los Angeles,Analytics,2024-04-08,2024-09-20,active
+REC_000440,Elizabeth,Smith,elizabeth.smith@innovatelabs.com,591908,HS,Marketing Coordinator,Atlanta,,2023-02-02,2024-09-01,active
+REC_000406,Richard,Brown,richard.brown@velocity.tech,(405) 432-1815,,Chief Technology Officer,Washington DC,,2024-06-08,2024-09-06,active
+REC_000272,Michael,Brown,,,quantum dynamics,Chief Executive Officer,,SaaS,2024-07-22,2025-01-10,inactive
+REC_000052,Amanda,Clark,,+18239816261,Apex Technologies,Chief Data Officer,,Cybersecurity,2024-05-18,2024-06-26,active
+REC_000267,Matthew,Davis,mdavis@pinnacle.tech,,Titan Systems,VP Business Development,Miami,,2025-01-20,2025-02-13,inactive
+REC_000416,Rebecca,Robinson,robinson.rebecca@synergycorp.com,,,Chief Financial Officer,,FinTech,2024-09-01,2024-10-31,active
+REC_000516,Lisa,Wilson,lisawilson@futuresoft.io,, TechCorp ,Director of Analytics,Dallas,,2025-02-07,2025-02-07,active
+REC_000019,Matthew,Williams,matthew.williams@catalyst.software,+17807394982,Forge Technologies,Business Development Manager,Chicago,Technology,2024-12-21,2025-01-30,active
+REC_000466,Michael,Ramirez,mramirez@apextech.com,(985) 949-3245,InnovateLabs Co.,Marketing Specialist,New York,Healthcare Tech,2023-02-12,2023-03-22,active
+REC_000323,Laura,Smith,laura_smith@smarttech.ai,,D,Director of Analytics,Philadelphia,SaaS,2025-02-13,2025-02-13,active
+REC_000408,Kathleen,Anderson,kathleen.anderson@smarttech.ai,417-792-9904, Spark Innovations ,VP of Sales,Denver,,2024-07-05,2025-02-01,active
+REC_000102,Mark,Taylor,mtaylor@pinnacle.tech,123-456,catalyst software,Senior Sales Executive,Los Angeles,,2023-11-13,2024-01-05,active
+REC_000484,Paul,Wilson,wilson.paul@velocity.tech,+1 299 833 1917,Spark Innovations,,Miami,Cloud Services,2025-01-03,2025-01-12,active
+REC_000202,Laura,Anderson,laura.anderson@horizon.solutions,(892) 480-2332,FutureSoft,,Seattle,FinTech,2024-09-13,2024-12-17,active
+REC_000390,Sharon,Smith,sharon.smith@techcorp.com,490-448-3371,TechCorp,Chief Executive Officer,Philadelphia,Technology,2024-03-30,2024-04-04,active
+REC_000011,Michelle,Young,myoung@aol.com,227-321-3620, Synergy Corp ,Senior Vice President,New York,Cybersecurity,2023-04-23,2023-10-02,active
+REC_000355,Thomas,Lewis,,123-456,,CDO,Seattle,,2023-06-04,2023-09-21,inactive
+REC_000276,Donald,Clark,donaldclark@hotmail.com,1-822-731-2425,Vertex Analytics,Lead Developer,Dallas,Healthcare Tech,2024-11-30,2024-12-07,inactive
+REC_000142,Cynthia,Lewis,,,Synergy Corp,CFO,Miami,Marketing Tech,2024-06-25,2024-07-29,active
+REC_000460,Christopher,Rodriguez,christopherrodriguezaol.com,,SmartTech Co.,Chief Financial Officer,,Marketing Tech,2025-01-10,2025-02-12,active
+REC_000277,Kathleen,Anderson,kathleen_anderson@velocity.tech,123-456, Pinnacle Tech ,Account Manager,Miami,Marketing Tech,2024-07-04,2024-11-03,inactive
+REC_000348,Matthew,Brown,matthewbrown@quantum.io,1-643-527-3289,DataSystems,Chief Data Officer,Los Angeles,Cloud Services,2024-10-01,2024-12-07,active
+REC_000315,Robert,Ramirez,robert_ramirez@velocity.tech,539.730.5047,TechCorp,Chief Financial Officer,New York,,2023-02-23,2024-10-08,active
+REC_000397,Amanda,White,awhite@pinnacle.tech,, Velocity Systems ,Senior Consultant,Dallas,,2024-12-04,2025-02-02,active
+REC_000303,Jennifer,Lee,jlee@hotmail.com,806-594-6798,Velocity Systems Corp.,Director of Operations,Chicago,E-commerce,2025-01-14,2025-02-12,active
+REC_000341,Cynthia,Hernandez,,+15465484231,Prime Analytics,,Dallas,Technology,2025-01-10,2025-01-31,active
+REC_000023,Matthew,Davis,matthew.davis@nexgen.com,(700)5726785,I,Chief Marketing Officer,Chicago,,2025-01-04,2025-01-18,active
+REC_000017,Laura,Thomas,laura_thomas@pinnacle..tech,(550)3875578,,Product Manager,,Cybersecurity,2025-01-14,2025-02-04,inactive
+REC_000246,Jane,Robinson,janerobinson@pinnacle.tech,+14384828609,Summit Software,Lead Developer,Philadelphia,,2024-11-08,2024-12-13,active
+REC_000445,Elizabeth,Lewis,elizabethlewis@velocity.tech,1-786-683-4912, InnovateLabs ,Product Manager,Denver,,2023-07-20,2025-02-13,active
+REC_000464,Richard,Williams,rwilliams@primeanalytics.com,123-456, Synergy Corp ,Data Analyst,Atlanta,E-commerce,2024-11-19,2024-11-19,active
+REC_000030,Michelle,Young,michelleyoung@horizon.solutions,,Apex Technologies Co.,Chief Marketing Officer,,Technology,2025-01-31,2025-02-14,inactive
+REC_000505,Jane,Jackson,jackson.jane@quantum.io,554-758-5942,DigitalVentures,VP Marketing,Los Angeles,Analytics,2024-04-08,2024-09-20,active
+REC_000264,William,Johnson,wjohnson@digitalventures.co,955-844-7216,DataSystems Limited,Vice President of Engineering,Los Angeles,E-commerce,2023-08-27,2024-01-05,active
+REC_000372,Jessica,Thomas,jessicathomas@gmail.com,+1 586 501 6883,Catalyst Software,Sales Manager,Washington DC,,2024-02-16,2025-02-07,inactive
+REC_000535,Michael,Williams,michael.williams@catalyst.software,6074782468,Frontier Tech LP,Lead Developer,,E-commerce,2023-11-04,2024-12-30,active
+REC_000007,Elizabeth,Lopez,,123-456, InnovateLabs ,Sales Manager,Philadelphia,Marketing Tech,2024-02-23,2024-05-31,active
+REC_000083,Paul,Lopez,paul_lopez@cloudsolutions.net,860839,Quantum Dynamics Co.,Sales Director,Portland,Cloud Services,2024-07-01,2024-12-04,active
+REC_000044,Donald,Lee,donald_lee@datasystems.io,123-456,Pinnacle Tech Corporation,Customer Success Manager,New York,Cybersecurity,2024-10-15,2024-11-09,active
+REC_000168,Jessica,Miller,miller.jessica@gmail.com,+19006029095,Synergy Corp Corp.,Marketing Director,Los Angeles,Healthcare Tech,2024-10-30,2024-11-27,inactive
+REC_000148,Lisa,White,lisa_white@techcorp.com,+14498653668,Spark Innovations LLC,Chief Data Officer,Portland,AI/ML,2025-01-15,2025-02-12,active
+REC_000387,David,Ramirez,ramirez.david@nexgen.com,1-974-977-4238,Summit Software LLP,Director of Operations,Phoenix,,2025-01-11,2025-01-30,active
+REC_000469,Sharon,Thompson,,,NexGen Solutions,Marketing Specialist,,FinTech,2024-02-09,2024-03-02,active
+REC_000335,Matthew,Garcia,matthewgarcia@velocity.tech,626.317.6117,,,Seattle,SaaS,2025-01-18,2025-02-12,inactive
+REC_000330,John,White,jwhite@catalyst.software,+15597932653,,Chief Marketing Officer,Chicago,,2023-02-20,2023-11-19,active
+REC_000537,Rebecca,Smith,rsmith@digitalventures.co,,Vertex Analytics Limited,Account Manager,Washington DC,,2024-10-06,2024-12-05,inactive
+REC_000126,Rebecca,Miller,rebeccamiller@catalyst.software,1-326-507-5810,Titan Systems,Chief Technology Officer,Miami,Analytics,2023-05-25,2024-08-14,active
+REC_000474,Michelle,Robinson,michelle.robinson@datasystems.io,493-476-6611,SmartTech Corp.,Marketing Specialist,San Diego,Cloud Services,2024-11-01,2025-01-03,active
+REC_000241,Jane,White,jane_white@horizon.solutions,671.948.6534,BA,Chief Financial Officer,Boston,,2023-07-06,2024-03-30,active
+REC_000249,Emily,Thompson,ethompson@nexgen.com,+19502187833,Velocity Systems Limited,Operations Manager,San Francisco,FinTech,2025-01-08,2025-02-04,active
+REC_000310,Richard,Hernandez,richardhernandez@cloudsolutions.net,(532)8125012,VS,Chief Data Officer,,,2024-11-18,2025-01-04,active
+REC_000055,Jane,Martinez,jane.martinez@catalyst.software,(443)5664856,SmartTech,Chief Technology Officer,Los Angeles,,2024-09-24,2024-11-28,active
+REC_000040,Mark,Brown,,1-881-625-5709,Vertex Analytics Ltd.,,Washington DC,Marketing Tech,2024-10-01,2024-12-14,active
+REC_000103,William,Hernandez,whernandez@pinnacle.tech,4035019986,SC,Account Manager,Seattle,SaaS,2025-01-10,2025-01-25,active
+REC_000337,Thomas,Clark,,(631)5797693,SmartTech,Software Engineer,Seattle,FinTech,2024-12-21,2025-01-06,inactive
+REC_000219,Amanda,Walker,walker.amanda@cloudsolutions.net,667.492.5612,,Engineering Manager,Los Angeles,Technology,2025-01-20,2025-02-14,active
+REC_000131,Jessica,Martin,jessica_martin@techcorp.com,(845) 615-4337,DIGITALVENTURES,Business Development Manager,Philadelphia,Technology,2024-11-21,2025-02-13,active
+REC_000146,Amanda,Ramirez,,(427)7446333,Horizon Solutions,Director of Analytics,,Healthcare Tech,2024-05-28,2024-12-16,inactive
+REC_000240,John,Taylor,john.taylor@nexgen.com,(854)3805125,Spark Innovations,Junior Analyst,Los Angeles,Marketing Tech,2025-01-04,2025-01-25,active
+REC_000193,Lisa,Lopez,lisa_lopez@icloud.com,1-355-932-5597,Prime Analytics,CTO,,AI/ML,2024-04-15,2024-09-19,pending
+REC_000385,Jennifer,Smith,smith.jennifer@nexgen.com,+1 335 709 3019,InnovateLabs,Chief Financial Officer,Portland,Cloud Services,2024-07-20,2024-09-24,inactive
+REC_000432,Jennifer,Ramirez,jennifer_ramirez@horizon.solutions,7405328747,Synergy Corp,Engineering Manager,Philadelphia,,2025-01-06,2025-01-15,inactive
+REC_000101,Lisa,White,lisawhite@icloud.com,, SmartTech ,Marketing Specialist,Austin,SaaS,2024-10-11,2024-12-08,pending
+REC_000448,Thomas,Williams,williams.thomas@aol.com,(496)6461733,DataSystems,CEO,Austin,Analytics,2025-02-12,2025-02-12,inactive
+REC_000111,Thomas,Rodriguez,thomas_rodriguez@yahoo.com,201-844-8246,Apex Technologies,VP Marketing,Dallas,E-commerce,2024-04-20,2024-09-03,active
+REC_000495,Sharon,Davis,sdavis@icloud.com,241.572.6418,,Sales Director,,FinTech,2025-02-04,2025-02-04,inactive
+REC_000034,Mark,Smith,mark.smith@outlook.com,,DataSystems,Product Director,Denver,SaaS,2024-11-14,2024-12-15,active
+REC_000255,Daniel,Miller,daniel_miller@catalyst.software,3754783427,SC,Marketing Manager,,AI/ML,2023-04-13,2023-09-14,active
+REC_000405,Lisa,Hernandez,lisa_hernandez@yahoo.com,4655979293,Apex Technologies Limited,CFO,Boston,Technology,2024-10-19,2024-10-31,active
+REC_000206,Michelle,Anderson,anderson.michelle@digitalventures.co,3294477795,,Senior Data Analyst,Boston,Cybersecurity,2025-02-06,2025-02-06,pending
+REC_000119,Paul,Anderson,paul_anderson@synergycorp.com,(943)6326574, Synergy Corp ,Associate Consultant,San Francisco,SaaS,2025-01-04,2025-02-05,active
+REC_000090,Jennifer,Johnson,jjohnson@techcorp.com,5243597659,Prime Analytics Co.,,Miami,E-commerce,2024-12-09,2025-01-08,pending
+REC_000207,Lisa,Harris,harris.lisa@outlook.com,(328) 501-9765,Forge Technologies,Senior Product Manager,,FinTech,2024-12-27,2025-01-27,active
+REC_000456,Richard,Sanchez,,(373)2739004,,Chief Technology Officer,San Francisco,E-commerce,2025-02-10,2025-02-10,active
+REC_000399,Laura,Sanchez,laura.sanchez@quantum.io,,ES,Junior Analyst,,FinTech,2025-01-07,2025-01-20,inactive
+REC_000326,Kathleen,Smith,smith.kathleen@aol.com,984.698.4258,DataSystems Inc.,Senior Product Manager,Washington DC,Cybersecurity,2023-10-18,2024-10-12,active
+REC_000118,Elizabeth,Thomas,elizabeththomas@smarttech.ai,,TS,Product Manager,New York,Cloud Services,2024-08-16,2024-10-11,inactive
+REC_000069,Amanda,Moore,,(396) 319-4722,Horizon Solutions LLP,VP of Operations,,Analytics,2024-05-14,2024-11-07,active
+REC_000265,Michael,Sanchez,sanchez.michael@horizon.solutions,,Titan Systems,Sales Director,Los Angeles,FinTech,2024-10-11,2024-12-12,active
+REC_000129,David,Lee,davidlee@outlook.com,,forge technologies,,,,2025-01-16,2025-01-28,active
+REC_000515,John,Martin,john.martin@datasystems.io,927423,SmartTech,Chief Executive Officer,,Analytics,2025-01-21,2025-01-29,active
+REC_000029,Michael,Garcia,mgarcia@nexgen.com,123-456, Elevate Solutions ,Senior Product Manager,Philadelphia,Cloud Services,2025-01-13,2025-02-06,inactive
+REC_000141,Lisa,Jackson,lisajackson@innovatelabs.com,+1 309 605 9351,prime analytics,Senior Consultant,Philadelphia,Analytics,2024-03-25,2024-09-04,active
+REC_000263,Jessica,Moore,jessica.moore@hotmail.com,+14137078195,Forge Technologies LLP,CDO,Atlanta,Analytics,2024-12-29,2025-01-29,active
+REC_000364,Richard,Brown,richard_brown@pinnacle.tech,123-456, Prime Analytics ,Sales Representative,Chicago,Cybersecurity,2025-01-01,2025-01-20,active
+REC_000243,John,Smith,john.smith@digitalventures.co,,Elevate Solutions,Software Engineer,Washington DC,,2025-01-24,2025-01-26,active
+REC_000471,Thomas,Davis,thomasdavis@nexgen.com,+14464463081,SI,Senior Vice President,Washington DC,Cybersecurity,2024-10-24,2024-12-03,active
+REC_000439,Melissa,White,white.melissa@apextech.com,123-456,FutureSoft,Director of Operations,Los Angeles,AI/ML,2024-08-09,2024-10-31,active
+REC_000027,Michelle,Williams,mwilliams@catalyst.software,477-438-5680,Velocity Systems Corp.,Chief Financial Officer,Philadelphia,FinTech,2023-05-01,2024-05-17,active
+REC_000031,David,Jackson,DAVID_JACKSON@VELOCITY.TECH,(348)7866937,TECHCORP,CDO,San Diego,Cloud Services,2023-12-29,2024-01-28,active
+REC_000383,Cynthia,Martin,cynthiamartin@quantum.io,784234,,Sales Associate,San Francisco,Marketing Tech,2024-10-14,2025-01-24,active
+REC_000363,Cynthia,Lewis,,,Apex Technologies,VP of Operations,Atlanta,SaaS,2025-01-22,2025-02-08,active
+REC_000259,Anthony,Taylor,taylor.anthony@yahoo.com,,SmartTech Corporation,,Washington DC,AI/ML,2024-12-15,2025-02-14,inactive
+REC_000006,Michael,Ramirez,michael_ramirez@datasystems.io,627.636.5687,DataSystems,,Philadelphia,,2023-12-18,2024-09-16,inactive
+REC_000502,Paul,Sanchez,paul_sanchez@primeanalytics.com,(970)3896963,vertex analytics,CMO,,Marketing Tech,2025-01-02,2025-01-27,active
+REC_000414,David,Thomas,davidthomas@techcorp.com,325.889.5780,InnovateLabs,,Dallas,Analytics,2024-05-25,2024-10-10,active
+REC_000097,Sarah,Johnson,sarah_johnson@datasystems.io,(302) 374-2009, Spark Innovations ,Marketing Manager,San Diego,Marketing Tech,2025-01-01,2025-01-23,active
+REC_000425,Daniel,Jackson,danieljackson@futuresoft.io,(256)6256742,,Software Engineer,Phoenix,Analytics,2023-05-17,2023-07-28,active
+REC_000482,Michael,Walker,michaelwalker@synergycorp.com,2834114289,Titan Systems,Sales Associate,Portland,Analytics,2025-01-13,2025-01-21,active
+REC_000155,Michael,Harris,michael_harris@synergycorp.com,695.444.3376,CloudSolutions Corp.,Associate Consultant,Boston,Cloud Services,2024-11-08,2025-02-03,inactive
+REC_000120,Amanda,Thompson,athompson@velocity.tech,+1 552 300 1000,Beacon Analytics Limited,Director of Analytics,Atlanta,Cloud Services,2024-08-01,2024-12-05,active
+REC_000171,Jessica,Taylor,jessica.taylor@techcorp.com,,Forge Technologies,Engineering Manager,Seattle,Marketing Tech,2025-02-13,2025-02-13,active
+REC_000004,James,Johnson,JOHNSON.JAMES@QUANTUM.IO,1-552-466-6023,CATALYST SOFTWARE,Senior Product Manager,,Technology,2025-01-13,2025-01-30,inactive
+REC_000086,John,White,jwhite@icloud.com,5323659698,catalyst software,Junior Analyst,Los Angeles,Cloud Services,2024-10-15,2024-10-17,inactive
+REC_000533,Sarah,Johnson,sarah_johnson@datasystems.io,(302) 374-2009, Spark Innovations ,Marketing Manager,San Diego,Marketing Tech,2025-01-01,2025-01-23,active
+REC_000428,Jennifer,Davis,jennifer_davis@aol.com,,,Senior Consultant,San Francisco,,2024-04-27,2024-07-19,active
+REC_000173,Richard,Ramirez,richard.ramirez@aol.com,+1 307 530 5635,Catalyst Software Co.,Engineering Manager,Washington DC,Marketing Tech,2025-02-01,2025-02-01,active
+REC_000290,David,Wilson,wilson.david@digitalventures.co,+1 261 405 2636,FutureSoft,Director of Operations,Philadelphia,AI/ML,2023-10-17,2023-11-03,active
+REC_000291,Anthony,Johnson,,+13804951943,,Assistant Manager,,E-commerce,2024-11-30,2025-02-13,active
+REC_000452,Mark,Davis,mdavis@catalyst.software,1-580-916-6691,SYNERGY CORP,Software Engineer,Dallas,SaaS,2024-10-07,2024-11-12,active
+REC_000106,Laura,Thompson,laurathompson@catalyst.software,6076003192, Synergy Corp ,Lead Developer,San Francisco,AI/ML,2024-02-27,2024-04-19,active
+REC_000446,Jennifer,Williams,williams.jennifer@velocity.tech,1-490-410-2389,Matrix Systems,CEO,San Diego,AI/ML,2024-12-10,2024-12-26,active
+REC_000333,Robert,Miller,,+1 505 814 1201,Spark Innovations Co.,,Chicago,Cloud Services,2023-11-05,2024-09-03,active
+REC_000201,Sharon,Wilson,sharon_wilson@innovatelabs.com,1-538-240-6795,FutureSoft Ltd.,Marketing Director,San Francisco,Marketing Tech,2025-01-30,2025-02-06,active
+REC_000356,Matthew,Rodriguez,,123-456,Frontier Tech LP,Director of Analytics,Washington DC,Healthcare Tech,2024-04-17,2024-12-23,inactive
+REC_000229,Michael,Williams,michael.williams@catalyst.software,6074782468,Frontier Tech LP,Lead Developer,,E-commerce,2023-11-04,2024-12-30,active
+REC_000123,Melissa,Jones,melissajones@digitalventures.co,,,VP of Sales,,Marketing Tech,2024-04-12,2024-04-26,active
+REC_000041,Robert,Thomas,,,,Senior Vice President,San Francisco,FinTech,2025-01-17,2025-01-18,active
+REC_000498,Rebecca,Smith,rsmith@digitalventures.co,,Vertex Analytics Limited,Account Manager,Washington DC,,2024-10-06,2024-12-05,inactive
+REC_000268,Cynthia,Lewis,clewis@pinnacle.tech,891-793-6129,Apex Technologies,Chief Executive Officer,Los Angeles,,2024-10-04,2024-12-11,inactive
+REC_000080,Richard,Jackson,jackson.richard@primeanalytics.com,711-588-3028,SmartTech,VP Business Development,Los Angeles,,2024-06-13,2024-07-26,inactive
+REC_000521,Matthew,Lewis,matthew.lewis@digitalventures.co,1-586-206-2111,SI,VP of Operations,Miami,E-commerce,2025-01-06,2025-01-31,active
+REC_000285,Mark,Walker,walker.mark@cloudsolutions.net,728568, DigitalVentures ,VP of Sales,Los Angeles,Cloud Services,2024-12-14,2024-12-15,active
+REC_000134,Jennifer,Robinson,jennifer_robinson@quantum.io,(444)7925744,PA,Chief Data Officer,,,2024-08-06,2025-01-20,active
+REC_000392,John,Brown,jbrown@innovatelabs.com,(446)5234089, Catalyst Software ,Sales Manager,Phoenix,E-commerce,2024-05-15,2024-08-07,active
+REC_000160,Amanda,Jackson,amandajackson@innovatelabs.com,1-834-366-6869,D,Account Manager,,AI/ML,2023-12-09,2024-01-11,active
+REC_000145,Robert,Lee,robertlee@velocity.tech,321-323-1265,Matrix Systems LLC,Senior Sales Executive,Boston,E-commerce,2024-06-01,2024-06-02,active
+REC_000378,Rebecca,Davis,rdavis@pinnacle.tech,(805)3092859,SC,Senior Software Engineer,Miami,Healthcare Tech,2025-02-08,2025-02-08,active
+REC_000000,Melissa,White,melissa_white@primeanalytics.com,(874) 450-8362,Pinnacle Tech Ltd.,Chief Marketing Officer,Washington DC,Cloud Services,2025-01-26,2025-02-04,pending
+REC_000413,Kathleen,Clark,,901.923.4943,InnovateLabs Inc,Product Director,Miami,FinTech,2025-01-10,2025-02-08,inactive
+REC_000152,Laura,Sanchez,,(335)4515300,NexGen Solutions,Business Development Manager,,Cloud Services,2025-01-17,2025-01-22,active
+REC_000161,Emily,Taylor,emily_taylor@quantum.io,234.570.3538,DataSystems,Chief Operating Officer,Austin,Cybersecurity,2024-08-31,2024-10-24,active
+REC_000386,David,Lopez,davidlopez@innovatelabs.com,1-685-418-5789,Spark Innovations Inc,Sales Director,Dallas,Technology,2024-11-18,2025-01-15,active
+REC_000512,Paul,Williams,paulwilliams@smarttech.ai,636.413.5014,Matrix Systems Limited,VP of Sales,Chicago,Cybersecurity,2025-02-03,2025-02-03,active
+REC_000089,Jane,Ramirez,jane.ramirez@cloudsolutions.net,(408)8056713,Synergy Corp,Customer Success Manager,Philadelphia,Marketing Tech,2023-12-14,2024-03-21,active
+REC_000429,William,Sanchez,williamsanchez@smarttech.ai,9594489823,,Director of Engineering,Washington DC,Technology,2023-01-17,2024-01-06,active
+REC_000511,Donald,Rodriguez,donaldrodriguez@futuresoft.io,123-456,Summit Software Corp.,Sales Manager,,E-commerce,2024-12-19,2025-01-20,inactive
+REC_000534,Sharon,Sanchez,sanchez.sharon@outlook.com,(739)2157343,elevate solutions,,Los Angeles,AI/ML,2025-01-03,2025-01-10,pending
+REC_000082,Donald,Thomas,dthomas@horizon.solutions,(937) 651-9176,TITAN SYSTEMS,Sales Director,,Marketing Tech,2025-02-14,2025-02-14,inactive
+REC_000008,Thomas,Moore,thomas_moore@catalyst.software,1-750-650-2738,Pinnacle Tech Inc,,Miami,Healthcare Tech,2025-01-21,2025-02-12,inactive
+REC_000096,Robert,White,robert_white@primeanalytics.com,1-388-942-6618,Spark Innovations,CFO,San Francisco,,2025-01-14,2025-02-05,active
+REC_000136,Sharon,Lewis,,,Elevate Solutions,Product Manager,Philadelphia,Cybersecurity,2025-02-10,2025-02-10,active
+REC_000076,David,Martinez,dmartinez@horizon.solutions,835352, Pinnacle Tech ,Account Manager,Philadelphia,AI/ML,2025-01-28,2025-02-13,active
+REC_000465,Sarah,Anderson,sarah_anderson@hotmail.com,(736)3448342,,CEO,Philadelphia,Marketing Tech,2025-01-27,2025-02-13,active
+REC_000137,Christopher,Lewis,christopherlewis@futuresoft.io,123-456,Catalyst Software,Assistant Manager,Philadelphia,SaaS,2024-11-13,2025-02-14,active
+REC_000085,Sharon,Davis,sharon_davis@hotmail.com,+19048116626,SmartTech,Senior Product Manager,Miami,Technology,2024-09-10,2024-11-15,active
+REC_000280,David,Lewis,dlewis@datasystems.io,243.690.8446,,VP Business Development,,,2025-01-10,2025-01-29,inactive
+REC_000109,Christopher,Martin,christophermartin@hotmail.com,,TITAN SYSTEMS,Senior Data Analyst,Philadelphia,,2024-12-30,2025-01-23,active
+REC_000114,Matthew,Rodriguez,matthewrodriguez@horizon.solutions,+1 602 698 6061,Elevate Solutions,,Chicago,FinTech,2024-12-20,2025-01-08,active
+REC_000184,Christopher,Martin,christophermartin@horizon.solutions,659.210.6351,,Operations Manager,Dallas,,2025-01-19,2025-01-26,active
+REC_000518,Matthew,Williams,matthewwilliams@gmail.com,(832) 309-2596,DigitalVentures Ltd.,CEO,Atlanta,Cloud Services,2024-08-05,2025-02-08,pending
+REC_000013,Jennifer,Anderson,anderson.jennifer@hotmail.com,457731,quantum dynamics,Software Engineer,Philadelphia,,2024-05-05,2024-10-05,active
+REC_000404,John,Thomas,john_thomas@velocity.tech,952-523-3202,DigitalVentures Limited,CEO,Chicago,SaaS,2024-08-12,2025-02-03,inactive
+REC_000138,Matthew,Miller,miller.matthew@nexgen.com,510-615-5887,Apex Technologies Co.,Product Manager,Seattle,Healthcare Tech,2024-07-06,2024-10-28,active
+REC_000311,Michael,Lopez,mlopez@icloud.com,(406) 560-8603, InnovateLabs ,Sales Representative,New York,E-commerce,2024-10-26,2025-02-03,pending
+REC_000046,Cynthia,Wilson,cynthia_wilson@pinnacle.tech,995975,TechCorp,Marketing Manager,San Francisco,Cloud Services,2023-03-30,2024-12-06,active
+REC_000489,Jennifer,Wilson,jwilson@outlook.com,123-456,,Sales Representative,Portland,,2024-12-03,2024-12-29,active
+REC_000391,Daniel,Lopez,,1-638-394-7408,Elevate Solutions,Data Analyst,Seattle,FinTech,2023-06-26,2023-12-04,active
+REC_000149,Lisa,Miller,lmiller@techcorp.com,,NS,,Seattle,Analytics,2025-01-22,2025-01-25,active
+REC_000423,Robert,Jackson,jackson.robert@smarttech.ai,7478564151,DataSystems Co.,VP of Operations,Philadelphia,Marketing Tech,2023-07-12,2024-02-29,pending
+REC_000509,Matthew,Miller,miller.matthew@nexgen.com,510-615-5887,Apex Technologies Co.,Product Manager,Seattle,Healthcare Tech,2024-07-06,2024-10-28,active
